@@ -1,0 +1,30 @@
+.myPage {
+  background-image: url(../Images/sunset3.jpg);
+  height: 150vh;
+  color: white;
+}
+.myPage-Info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.myPage-Info2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 80px;
+  width: 350px;
+  background-color: rgba(225, 225, 225, 0.2);
+  border-radius: 10px;
+}
+.margin {
+  margin: 20px;
+}
+.clouds {
+  transform: rotate(269deg);
+}
+h1 {
+  font-weight: 800;
+  font-size: 50px;
+}
